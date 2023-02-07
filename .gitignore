@@ -1,5 +1,5 @@
-Digital Electronics Practice.cache/
-Digital Electronics Practice.hw/
-Digital Electronics Practice.ip_user_files/
-Digital Electronics Practice.runs/
-Digital Electronics Practice.sim/
+*/*.cache/
+*/*.hw/
+*/*.ip_user_files/
+*/*.runs/
+*/*.sim/
