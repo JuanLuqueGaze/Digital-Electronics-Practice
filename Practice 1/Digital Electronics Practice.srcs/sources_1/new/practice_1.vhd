@@ -28,7 +28,7 @@ BEGIN
         END IF;
         IF rising_edge(clk) AND load = '0' THEN
             CASE (data) IS
-                WHEN "0000" =>
+                WHEN "0000" => --se podría haber usado el others
                     CASE(add) IS
                     WHEN "11" =>
                         add <= "01";
